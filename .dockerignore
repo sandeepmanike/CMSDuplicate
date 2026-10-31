@@ -1,0 +1,16 @@
+.git
+.github
+.vscode
+.vs
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/.env
+**/.env.*
+**/Logs
+**/logs
+Frontend
+Images
+docs
+*.log
